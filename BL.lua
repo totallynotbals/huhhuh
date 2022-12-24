@@ -1,1 +1,1 @@
-local PlrList = {""}
+PlrList = {""}
