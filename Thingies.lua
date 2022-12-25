@@ -134,4 +134,3 @@ task.wait(0.5)
         task.wait(10)
         --#game.Players:GetPlayers() > 5
 --Tide#0086 was here
-    end
